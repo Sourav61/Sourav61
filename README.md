@@ -2,16 +2,16 @@
 
 #### Hi there, I'm [Sourav Pahwa](https://sourav61.github.io/progate/) 👋
 
-#### I'm an UnderGraduate and a Full Stack Developer !!
+#### <h3>I'm an UnderGraduate and a Full Stack Developer !!</h3>
 
-##- 🏡 First year Computer Science student at CGC,Landran,Mohali.
-##- 💻 I am currently learning Javascript and Machine Learning.
+- 🏡 First year Computer Science student at CGC,Landran,Mohali.
+- 💻 I am currently learning Javascript and Machine Learning.
 
 #### Work Experience
 
-##- 🏠 Data Science And Business Analytics Intern at [Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
-##- 🏢 Top 25 Course Performers at Machine Learning Scholarship Programme by [Devincept](https://devincept.tech/)
-##- 🙂 Participant in Gunniess World Record Event conducted by [Guvi](https://www.guvi.in/)
+- 🏠 Data Science And Business Analytics Intern at [Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
+- 🏢 Top 25 Course Performers at Machine Learning Scholarship Programme by [Devincept](https://devincept.tech/)
+- 🙂 Participant in Gunniess World Record Event conducted by [Guvi](https://www.guvi.in/)
 
 <h2 align="center">Connect With Me :handshake:</h2>
 <p align="center">
