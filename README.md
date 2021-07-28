@@ -25,4 +25,4 @@
 </a>
 
 [![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourav61&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)             
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav61&exclude_repo=Goeduhub-Assignments&layout=compact&hide=Jupyter Notebook   (https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav61&layout=compact&hide=JupyterNotebook)](https://github.com/anuraghazra/github-readme-stats)
