@@ -1,18 +1,18 @@
 <img src="https://github.com/Sourav61/Sourav61/blob/master/OIP.jpg" alt="Github Contributions"></img>
 
-#### <h3>Hi there, I'm [Sourav Pahwa](https://sourav61.github.io/progate/) 👋</h3>
+#### <h2>Hi there, I'm [Sourav Pahwa](https://sourav61.github.io/progate/) 👋</h2>
 
-#### <h3>I'm an UnderGraduate and a Full Stack Developer !!</h3>
+#### <h2>I'm an UnderGraduate and a Full Stack Developer !!</h2>
 
 - <h4>🏡 First year Computer Science student at CGC,Landran,Mohali.</h4>
 - <h4>💻 I am currently learning Javascript and Machine Learning.</h4>
+<br />
+<h2>Work Experience</h2>
 
-#### <h3>Work Experience</h3>
-
-#- <h4>🏠 Data Science And Business Analytics Intern at [Sparks Foundation](https://www.thesparksfoundationsingapore.org/)</h4>
-#- <h4>🏢 Top 25 Course Performers at Machine Learning Scholarship Programme by [Devincept](https://devincept.tech/)</h4>
-#- <h4>🙂 Participant in Gunniess World Record Event conducted by [Guvi](https://www.guvi.in/)</h4>
-
+# <h4>🏠 Data Science And Business Analytics Intern at [Sparks Foundation](https://www.thesparksfoundationsingapore.org/)</h4>
+# <h4>🏢 Top 25 Course Performers at Machine Learning Scholarship Programme by [Devincept](https://devincept.tech/)</h4>
+# <h4>🙂 Participant in Gunniess World Record Event conducted by [Guvi](https://www.guvi.in/)</h4>
+<br />
 <h2 align="center">Let's Get Connected :handshake:</h2>
 <p align="center">
 <a href="https://github.com/Sourav61">
