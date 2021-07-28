@@ -1,3 +1,5 @@
+<img src="https://github.com/Sourav61/Sourav61/blob/master/OIP.jpg" alt="Github Contributions"></img>
+
 ### Hi there, I'm [Sourav Pahwa](https://sourav61.github.io/progate/) 👋
 
 ## I'm an UnderGraduate and a Full Stack Developer !!
