@@ -13,7 +13,7 @@
 - <h4>🏢 Top 25 Course Performers at Machine Learning Scholarship Programme by [Devincept](https://devincept.tech/)</h4>
 - <h4>🙂 Participant in Gunniess World Record Event conducted by [Guvi](https://www.guvi.in/)</h4>
 
-<h2 align="center">Connect With Me :handshake:</h2>
+<h2 align="center">Let's Get Connected :handshake:</h2>
 <p align="center">
 <a href="https://github.com/Sourav61">
 <br />
