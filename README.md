@@ -1,4 +1,4 @@
-### Hi there, I'm [Sourav Pahwa][https://sourav61.github.io/progate/] 👋
+### Hi there, I'm [Sourav Pahwa](https://sourav61.github.io/progate/) 👋
 
 ## I'm an UnderGraduate and a Full Stack Developer !!
 
