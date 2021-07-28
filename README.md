@@ -7,7 +7,7 @@
 - 🏡 First year Computer Science student at CGC,Landran,Mohali.
 - 💻 I am currently learning Javascript and Machine Learning.
 
-#### Work Experience
+#### <h3>Work Experience</h3>
 
 - 🏠 Data Science And Business Analytics Intern at [Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
 - 🏢 Top 25 Course Performers at Machine Learning Scholarship Programme by [Devincept](https://devincept.tech/)
