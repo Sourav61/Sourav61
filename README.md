@@ -4,14 +4,14 @@
 
 #### <h3>I'm an UnderGraduate and a Full Stack Developer !!</h3>
 
-- 🏡 First year Computer Science student at CGC,Landran,Mohali.
-- 💻 I am currently learning Javascript and Machine Learning.
+- 🏡 <h4>First year Computer Science student at CGC,Landran,Mohali.</h4>
+- 💻 <h4>I am currently learning Javascript and Machine Learning.</h4>
 
 #### <h3>Work Experience</h3>
 
-- 🏠 Data Science And Business Analytics Intern at [Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
-- 🏢 Top 25 Course Performers at Machine Learning Scholarship Programme by [Devincept](https://devincept.tech/)
-- 🙂 Participant in Gunniess World Record Event conducted by [Guvi](https://www.guvi.in/)
+- 🏠 <h4>Data Science And Business Analytics Intern at [Sparks Foundation](https://www.thesparksfoundationsingapore.org/)</h4>
+- 🏢 <h4>Top 25 Course Performers at Machine Learning Scholarship Programme by [Devincept](https://devincept.tech/)</h4>
+- 🙂 <h4>Participant in Gunniess World Record Event conducted by [Guvi](https://www.guvi.in/)</h4>
 
 <h2 align="center">Connect With Me :handshake:</h2>
 <p align="center">
