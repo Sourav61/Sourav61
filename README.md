@@ -1,6 +1,6 @@
 <img src="https://github.com/Sourav61/Sourav61/blob/master/OIP.jpg" alt="Github Contributions"></img>
 
-#### <h2>Hi there, I'm [Sourav Pahwa](https://sourav61.github.io/progate/) 👋</h2>
+#### <h2>Hi there, I'm [Sourav Pahwa](https://sourav61.github.io/progate/) <img src="https://media.giphy.com/media/ltu3chhH9nbtYx36Bd/giphy.gif" width="30"></h2>
 
 #### <h2>I'm an UnderGraduate and a Full Stack Developer !!</h2>
 
