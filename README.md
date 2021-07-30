@@ -26,7 +26,8 @@
 
 [![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourav61&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav61&layout=compact&hide=JupyterNotebook)](https://github.com/anuraghazra/github-readme-stats)
 
-[![sourav wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourav61)](https://github.com/anuraghazra/github-readme-stats) ![Visitor Count](https://profile-counter.glitch.me/{Sourav61}/count.svg)
+[![sourav wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourav61)](https://github.com/anuraghazra/github-readme-stats) ![](https://api.visitorbadge.io/api/VisitorHit?user=Sourav61&repo=github-visitors-badge&countColor=%237B1E7A)
+
 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourav61&)"><img src="https://activity-graph.herokuapp.com/graph?username=Sourav61&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
