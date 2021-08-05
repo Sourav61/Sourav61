@@ -29,4 +29,5 @@
 
 [![sourav wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourav61)](https://github.com/anuraghazra/github-readme-stats) ![](https://api.visitorbadge.io/api/VisitorHit?user=Sourav61&repo=github-visitors-badge&countColor=%237B1E7A)
 
-[![Sourav Pahwa github activity graph](https://activity-graph.herokuapp.com/graph?username=Sourav61)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourav61&theme=dracula)"><img src="https://activity-graph.herokuapp.com/graph?username=Sourav61&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
