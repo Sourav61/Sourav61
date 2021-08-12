@@ -40,8 +40,8 @@
 <td align="left">This is an ML based Project that predicts salary of an employee on basis of parameters like average training score, awards won etc.</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/rohan-kulkarni-25/Tribute-To-Contributors">Tribute-To-Contributors</a></td>
-<td align="left">In this repository with the help of Github api I have created one html file give tribute to your project contributors</td>
+<td align="center"><a href="https://github.com/Sourav61/Netflix-Clone">Netflix Clone</a></td>
+<td align="left">Built with moto to brush up my skills on HTML, CSS & JS, It consists of Clone of the Landing page of Netflix.</td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/Sourav61/Portfolio">Personal Portfolio</a></td>
