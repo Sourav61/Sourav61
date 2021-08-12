@@ -44,8 +44,8 @@
 <td align="left">In this repository with the help of Github api I have created one html file give tribute to your project contributors</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/rohan-kulkarni-25/personal-portfolio">Personal Portfolio</a></td>
-<td align="left">This is my personal personal-portfolio website. Have a look <a href="https://rohankulkarni.codes" rel="nofollow">https://rohankulkarni.code</a></td>
+<td align="center"><a href="https://github.com/Sourav61/Portfolio">Personal Portfolio</a></td>
+<td align="left">This is my personal personal-portfolio website. Have a<a href="https://personal-portfolio-sp.herokuapp.com/" rel="nofollow"> look</a></td>
 </tr>
 </tbody>
 </table>
