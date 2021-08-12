@@ -23,6 +23,32 @@
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6752a5abda6bc26d149a666e2ef2b0359855cc9526abfc0ad48c4771ec906979/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"><img alt="JavaScript" src="https://camo.githubusercontent.com/6752a5abda6bc26d149a666e2ef2b0359855cc9526abfc0ad48c4771ec906979/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width:100%;"></a>
 </p>
 <br />
+<table>
+<thead>
+<tr>
+<th align="center">Project Name</th>
+<th align="left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/Sourav61/Projects">Projects</a></td>
+<td align="left">In this repository I will be adding all my projects which will include implementation of all knowledge gained during my entire tech career!!</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/Sourav61/Projects/tree/main/Employee%20Promotion%20Prediction">Employee Promotion Prediction</a></td>
+<td align="left">This is an ML based Project that predicts salary of an employee on basis of parameters like average training score, awards won etc.</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/rohan-kulkarni-25/Tribute-To-Contributors">Tribute-To-Contributors</a></td>
+<td align="left">In this repository with the help of Github api I have created one html file give tribute to your project contributors</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/rohan-kulkarni-25/personal-portfolio">Personal Portfolio</a></td>
+<td align="left">This is my personal personal-portfolio website. Have a look <a href="https://rohankulkarni.codes" rel="nofollow">https://rohankulkarni.code</a></td>
+</tr>
+</tbody>
+</table>
 <h2 align="center">Let's Get Connected :handshake:</h2>
 <p align="center">
 <a href="https://github.com/Sourav61">
