@@ -4,8 +4,8 @@
 
 #### <h2>I'm an UnderGraduate and a Full Stack Developer !!</h2>
 
-- <h4>🏡 First year Computer Science student at CGC,Landran,Mohali.</h4>
-- <h4>💻 I am currently learning Javascript and Machine Learning.</h4>
+- <h4>🏡 Second year Computer Science student at CGC,Landran,Mohali.</h4>
+- <h4>💻 I am currently learning Javascript,DSA and Machine Learning.</h4>
 <br />
 <h2>Work Experience</h2>
 
