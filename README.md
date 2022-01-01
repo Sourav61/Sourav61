@@ -1,4 +1,4 @@
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Sourav61/Sourav61/blob/master/STATS.gif"><img src="https://github.com/Sourav61/Sourav61/blob/master/STATS.gif" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Sourav61/Sourav61/blob/master/STATS2021.gif"><img src="https://github.com/Sourav61/Sourav61/blob/master/STATS.gif" style="max-width: 100%;"></a>
 #### <h2>Hi there, I'm [Sourav Pahwa](https://personal-portfolio-sp.herokuapp.com/) <img src="https://media.giphy.com/media/ltu3chhH9nbtYx36Bd/giphy.gif" width="30"></h2>
 
 #### <h2>I am an UnderGraduate and a Full Stack Web Developer !!</h2>
