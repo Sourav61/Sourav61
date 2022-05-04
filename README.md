@@ -84,18 +84,12 @@
   </table>
   <h2 align="center">Github Stats</h2>
 
-  <div style="display: inline-flex !important;">
-    <div>
-     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/59851c9bacb2a03e6d63c4560cc4f689a39e105065fb14b2e6c42b09e91dde6a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d536f75726176363126636f756e745f707269766174653d74727565267468656d653d7261646963616c" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Sourav61&amp;count_private=true&amp;theme=radical" style="max-width: 100%;"></a>
-   </div>
-   <div>
+  <div align="center" dir="auto">
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/59851c9bacb2a03e6d63c4560cc4f689a39e105065fb14b2e6c42b09e91dde6a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d536f75726176363126636f756e745f707269766174653d74727565267468656d653d7261646963616c" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Sourav61&amp;count_private=true&amp;theme=radical" style="max-width: 100%;"></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/4456d046be7424328e2897bbfa132df8b706fca759e4e197559b792d0df861bd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d536f757261763631266c61796f75743d636f6d7061637426686964653d4a7570797465724e6f7465626f6f6b" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav61&amp;layout=compact&amp;hide=JupyterNotebook" style="max-width: 100%; ">
     </a>
-   </div>
   </div>
-
-  <div align="center" style="display: flex; justify-content: center"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/326c183a555a5eb65a99265cd10522d7f4c6951c1d978d3cb3feeb779a946586/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d736f757261763631"><img src="https://camo.githubusercontent.com/326c183a555a5eb65a99265cd10522d7f4c6951c1d978d3cb3feeb779a946586/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d736f757261763631" alt="sourav wakatime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=sourav61" style="max-width: 100%;"></a></div>
-
+ 
   <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourav61&theme=dracula)"><img src="https://activity-graph.herokuapp.com/graph?username=Sourav61&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
  </body>
