@@ -85,7 +85,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourav61&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav61&layout=compact&hide=JupyterNotebook)](https://github.com/anuraghazra/github-readme-stats)
 
-![sourav wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourav61)
+<div style="display: flex; justify-content: center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/326c183a555a5eb65a99265cd10522d7f4c6951c1d978d3cb3feeb779a946586/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d736f757261763631"><img src="https://camo.githubusercontent.com/326c183a555a5eb65a99265cd10522d7f4c6951c1d978d3cb3feeb779a946586/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d736f757261763631" alt="sourav wakatime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=sourav61" style="max-width: 100%;"></a></div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourav61&theme=dracula)"><img src="https://activity-graph.herokuapp.com/graph?username=Sourav61&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
