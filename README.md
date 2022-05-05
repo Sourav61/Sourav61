@@ -90,7 +90,7 @@
     </a>
   </div>
  
-  <div align="center" dir="auto">
+  <div style="display: flex; justify-content: center;" align="center" dir="auto">
    <a href="https://camo.githubusercontent.com/326c183a555a5eb65a99265cd10522d7f4c6951c1d978d3cb3feeb779a946586/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d736f757261763631" rel="nofollow">
     <img src="https://camo.githubusercontent.com/326c183a555a5eb65a99265cd10522d7f4c6951c1d978d3cb3feeb779a946586/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d736f757261763631" alt="sourav wakatime stats" style="max-width: 100%;">
    </a>
