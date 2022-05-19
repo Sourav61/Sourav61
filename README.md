@@ -90,13 +90,19 @@
     </a>
   </div>
  
+  <div align="center">
+   <p align="center">
+      <img height="140" width="140" src="https://user-images.githubusercontent.com/78967360/158388511-9b4590dc-96f5-402a-9b6b-b51add4efc70.png">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sourav61&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+      <img height="140" width="140" src="https://user-images.githubusercontent.com/78967360/158388859-2bac10f7-efd5-45d7-93bb-777271b5426f.png">
+   </p>
+  </div>
+  
   <div style="display: flex; justify-content: center;" align="center" dir="auto">
    <a href="https://camo.githubusercontent.com/326c183a555a5eb65a99265cd10522d7f4c6951c1d978d3cb3feeb779a946586/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d736f757261763631" rel="nofollow">
     <img src="https://camo.githubusercontent.com/326c183a555a5eb65a99265cd10522d7f4c6951c1d978d3cb3feeb779a946586/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d736f757261763631" alt="sourav wakatime stats" style="max-width: 100%;">
    </a>
   </div>
   
-  <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourav61&theme=dracula)"><img src="https://activity-graph.herokuapp.com/graph?username=Sourav61&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
  </body>
 </html>
