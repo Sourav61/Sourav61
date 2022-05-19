@@ -34,6 +34,37 @@
   # <h4>🏢 Top 25 Course Performers at Machine Learning Scholarship Programme by [Devincept](https://devincept.tech/)</h4>
   # <h4>🙂 Participant in Gunniess World Record Event conducted by [Guvi](https://www.guvi.in/)</h4>
   <br />
+  
+  <br />
+  <table>
+   <thead>
+    <tr>
+    <th align="center">Project Name</th>
+    <th align="left">Description</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td align="center"><a href="https://github.com/Sourav61/Projects">Projects</a></td>
+     <td align="left">In this repository I will be adding all my projects which will include implementation of all knowledge gained during my entire tech career!!</td>
+    </tr>
+    <tr>
+     <td align="center"><a href="https://github.com/Sourav61/Projects/tree/main/Employee%20Promotion%20Prediction">Employee Promotion Prediction</a></td>
+     <td align="left">This is an ML based Project that predicts salary of an employee on basis of parameters like average training score, awards won etc.</td>
+    </tr>
+    <tr>
+     <td align="center"><a href="https://github.com/Sourav61/Netflix-Clone">Netflix Clone</a></td>
+     <td align="left">Built with moto to brush up my skills on HTML, CSS & JS, It consists of Clone of the Landing page of Netflix.</td>
+    </tr>
+    <tr>
+     <td align="center"><a href="https://github.com/Sourav61/Portfolio">Personal Portfolio</a></td>
+     <td align="left">This is my personal personal-portfolio website. Have a<a href="https://personal-portfolio-sp.herokuapp.com/" rel="nofollow"> look</a></td>
+    </tr>
+   </tbody>
+  </table>
+  
+  <details>   <summary>:zap:More</summary>
+  
   <h1 align="center"> Tech-Stack </h1>
   <p align="center"> 
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/22adfb1d85bcb2de22efe8036b9ba680ccf43a8303ce921c934b994607400754/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266f676f436f6c6f723d7768697465"><img alt="C++" src="https://camo.githubusercontent.com/22adfb1d85bcb2de22efe8036b9ba680ccf43a8303ce921c934b994607400754/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/c++-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" style="max-width:80%;"></a>
@@ -55,33 +86,15 @@
    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"><img alt="JavaScript" src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width:100%;"></a>
 
   </p>
-  <br />
-  <table>
-  <thead>
-  <tr>
-  <th align="center">Project Name</th>
-  <th align="left">Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td align="center"><a href="https://github.com/Sourav61/Projects">Projects</a></td>
-  <td align="left">In this repository I will be adding all my projects which will include implementation of all knowledge gained during my entire tech career!!</td>
-  </tr>
-  <tr>
-  <td align="center"><a href="https://github.com/Sourav61/Projects/tree/main/Employee%20Promotion%20Prediction">Employee Promotion Prediction</a></td>
-  <td align="left">This is an ML based Project that predicts salary of an employee on basis of parameters like average training score, awards won etc.</td>
-  </tr>
-  <tr>
-  <td align="center"><a href="https://github.com/Sourav61/Netflix-Clone">Netflix Clone</a></td>
-  <td align="left">Built with moto to brush up my skills on HTML, CSS & JS, It consists of Clone of the Landing page of Netflix.</td>
-  </tr>
-  <tr>
-  <td align="center"><a href="https://github.com/Sourav61/Portfolio">Personal Portfolio</a></td>
-  <td align="left">This is my personal personal-portfolio website. Have a<a href="https://personal-portfolio-sp.herokuapp.com/" rel="nofollow"> look</a></td>
-  </tr>
-  </tbody>
-  </table>
+   
+   <div style="display: flex; justify-content: center;" align="center" dir="auto">
+   <a href="https://camo.githubusercontent.com/326c183a555a5eb65a99265cd10522d7f4c6951c1d978d3cb3feeb779a946586/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d736f757261763631" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/326c183a555a5eb65a99265cd10522d7f4c6951c1d978d3cb3feeb779a946586/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d736f757261763631" alt="sourav wakatime stats" style="max-width: 100%;">
+   </a>
+  </div>
+   
+ </details>
+  
   <h2 align="center">Github Stats</h2>
 
   <div align="center" display="flex" dir="auto">
@@ -98,11 +111,7 @@
    </p>
   </div>
   
-  <div style="display: flex; justify-content: center;" align="center" dir="auto">
-   <a href="https://camo.githubusercontent.com/326c183a555a5eb65a99265cd10522d7f4c6951c1d978d3cb3feeb779a946586/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d736f757261763631" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/326c183a555a5eb65a99265cd10522d7f4c6951c1d978d3cb3feeb779a946586/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d736f757261763631" alt="sourav wakatime stats" style="max-width: 100%;">
-   </a>
-  </div>
+  
   
  </body>
 </html>
