@@ -3,7 +3,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/Sourav61/Sourav61/blob/master/2021Stats.gif"><img src="https://github.com/Sourav61/Sourav61/blob/master/2021Stats.gif" style="max-width: 100%;"></a>
   <h2>Hi there, I'm <a href="https://personal-portfoliosp.herokuapp.com/">Sourav Pahwa</a> <img src="https://media.giphy.com/media/ltu3chhH9nbtYx36Bd/giphy.gif" width="30"></h2>
 
-  #### <h2>I am an UnderGraduate and a Full Stack Web Developer !!</h2>
+  <h2>I am an UnderGraduate and a Full Stack Web Developer !!</h2>
 
   - <h4>🏡 Second year Computer Science student at CGC Landran,Mohali.</h4>
   - <h4>💻 I am currently learning Web Developemt and DSA.</h4>
@@ -29,10 +29,10 @@
 
   <h2>Work Experience</h2>
 
-  # <h4>🏠 Front End Web Developer Intern at [Educase India](https://educase.io)</h4>
-  # <h4>🏫 Data Science And Business Analytics Intern at [Sparks Foundation](https://www.thesparksfoundationsingapore.org/)</h4>
-  # <h4>🏢 Top 25 Course Performers at Machine Learning Scholarship Programme by [Devincept](https://devincept.tech/)</h4>
-  # <h4>🙂 Participant in Gunniess World Record Event conducted by [Guvi](https://www.guvi.in/)</h4>
+   <h4>🏠 Front End Web Developer Intern at [Educase India](https://educase.io)</h4>
+   <h4>🏫 Data Science And Business Analytics Intern at [Sparks Foundation](https://www.thesparksfoundationsingapore.org/)</h4>
+   <h4>🏢 Top 25 Course Performers at Machine Learning Scholarship Programme by [Devincept](https://devincept.tech/)</h4>
+   <h4>🙂 Participant in Gunniess World Record Event conducted by [Guvi](https://www.guvi.in/)</h4>
   <br />
   
   <br />
@@ -111,6 +111,7 @@
    </p>
   </div>
   
+  <br />
   <h2>Watch my contribution graph get eaten by the snake 🐍</h2>
   <img align="center" src="https://github.com/Sourav61/Sourav61/blob/output/github-contribution-grid-snake.gif" width="1050">  
  </body>
