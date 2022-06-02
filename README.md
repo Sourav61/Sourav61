@@ -29,10 +29,10 @@
 
   <h2>Work Experience</h2>
 
-   <h4>🏠 Front End Web Developer Intern at [Educase India](https://educase.io)</h4>
-   <h4>🏫 Data Science And Business Analytics Intern at [Sparks Foundation](https://www.thesparksfoundationsingapore.org/)</h4>
-   <h4>🏢 Top 25 Course Performers at Machine Learning Scholarship Programme by [Devincept](https://devincept.tech/)</h4>
-   <h4>🙂 Participant in Gunniess World Record Event conducted by [Guvi](https://www.guvi.in/)</h4>
+  <h4>🏠 Front End Web Developer Intern at <a href="https://educase.io">Educase India</a></h4>
+  <h4>🏫 Data Science And Business Analytics Intern at <a href="https://www.thesparksfoundationsingapore.org/">Sparks Foundation</a></h4>
+   <h4>🏢 Top 25 Course Performers at Machine Learning Scholarship Programme by <a href="https://devincept.tech/">Devincept</a></h4>
+  <h4>🙂 Participant in Gunniess World Record Event conducted by <a href="https://www.guvi.in/">Guvi</a></h4>
   <br />
   
   <br />
