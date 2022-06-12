@@ -112,7 +112,7 @@
   </div>
   
   <br />
-  <h2>Watch my contribution graph get eaten by the snake 🐍</h2>
-  <img align="center" src="https://github.com/Sourav61/Sourav61/blob/output/github-contribution-grid-snake.gif" width="1050">  
+<!--   <h2>Watch my contribution graph get eaten by the snake 🐍</h2>
+  <img align="center" src="https://github.com/Sourav61/Sourav61/blob/output/github-contribution-grid-snake.gif" width="1050">   -->
  </body>
 </html>
