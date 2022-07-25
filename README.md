@@ -7,7 +7,7 @@
 
   <h2>I am an UnderGraduate and a Full Stack Web Developer !!</h2>
 
-  - <h4>🏡 Second year Computer Science student at CGC Landran,Mohali.</h4>
+  - <h4>🏡 Third year Computer Science student at CGC Landran,Mohali.</h4>
   - <h4>💻 I am currently learning Web Developemt and DSA.</h4>
   - <h4>🌐 I have also explored world of Machine Learning and Artificial Intelligence using Python.</h4>
   <br />
