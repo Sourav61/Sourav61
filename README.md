@@ -5,10 +5,10 @@
 <!--   <img align="center" src="https://github.com/Sourav61/Sourav61/blob/output/github-contribution-grid-snake.gif" width='100%'>  
   <h2>Hi there, I'm <a href="https://personal-portfoliosp.herokuapp.com/">Sourav Pahwa</a> <img src="https://media.giphy.com/media/ltu3chhH9nbtYx36Bd/giphy.gif" width="30"></h2> -->
 
-  <h2>I am an UnderGraduate and a Full Stack Web Developer !!</h2>
+  <h2>Hey there,I am a Software Developer at rtCamp</h2>
 
-  - <h4>🏡 Fourth year Computer Science student at CGC Landran,Mohali.</h4>
-  - <h4>💻 I am currently learning Web Developemt(PHP) and Wordpress</h4>
+  - <h4>🏡 Gradauted(B.Tech CSE) from CGC Landran,Mohali.</h4>
+  - <h4>💻 I am currently learning Docker and revising DSA, Python and Dev</h4>
   - <h4>🌐 I have also explored world of Machine Learning and Artificial Intelligence using Python.</h4>
   <br />
 
@@ -17,20 +17,22 @@
   <p align="center">
   <a href="https://github.com/Sourav61">
   <br />
-  <img src="https://camo.githubusercontent.com/b2d1ae072c968dbeaf2232f0e1071ae5a7b218b11caec1ae5c69c10ef370a3cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="github" data-canonical-src="https://img.shields.io/badge/github-%2324292e.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width:100%;">
+  
+  <img src="https://github.com/Sourav61/Sourav61/blob/master/github-logo.png" alt="github" height="25" width="25" style="max-width:100%;">
   </a>
 
   <a href="https://www.linkedin.com/in/sourav-pahwa-93b4041b6/" rel="nofollow">
-  <img alt="LinkedIn" src="https://camo.githubusercontent.com/8bb7c1de40aadb0d8eede2add7716932344b30235088d239831fe0e884de8f82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;">
+  <img alt="LinkedIn" src="https://github.com/Sourav61/Sourav61/blob/master/linkedin.png" height="25" width="25" style="max-width:100%;">
   </a>
 
   <a href="https://twitter.com/SouravPahwa9" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/be00a8f072a1761beab80676a2c3898db934b879bdb39507c1653e7fc52f45c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333030616365652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d776869746526616c743d74776974746572" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white&amp;alt=twitter" style="max-width: 100%;">
+  <img src="https://github.com/Sourav61/Sourav61/blob/master/twitter.png" alt="Twitter" height="25" width="25" style="max-width: 100%;">
   </a>
-  <a href="mailto:sourav61pahwa@gmail.com"><img alt="Gmail" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;"></a>
+  <a href="mailto:sourav61pahwa@gmail.com"><img alt="Gmail" src="https://github.com/Sourav61/Sourav61/blob/master/gmail.png" height="25" width="25"  style="max-width:100%;"></a>
 
   <h2>Work Experience</h2>
 
+  <h4>🏠 Software Developer at <a href="https://rtcamp.com">rtCamp</a></h4>
   <h4>🏠 Front End Web Developer Intern at <a href="https://educase.io">Educase India</a></h4>
   <h4>🏢 Front End Web Developer Intern at <a href="https://www.linkedin.com/company/revolute/">Revolute Eduverse</a></h4>
   <h4>🏫 Data Science And Business Analytics Intern at <a href="https://www.thesparksfoundationsingapore.org/">Sparks Foundation</a></h4>
