@@ -5,7 +5,7 @@
 <!--   <img align="center" src="https://github.com/Sourav61/Sourav61/blob/output/github-contribution-grid-snake.gif" width='100%'>  
   <h2>Hi there, I'm <a href="https://personal-portfoliosp.herokuapp.com/">Sourav Pahwa</a> <img src="https://media.giphy.com/media/ltu3chhH9nbtYx36Bd/giphy.gif" width="30"></h2> -->
 
-  <h2>Hey there,I am a Software Developer at rtCamp</h2>
+  <h2>Hey there, I am a Software Developer at rtCamp</h2>
 
   - <h4>🏡 Gradauted(B.Tech CSE) from CGC Landran,Mohali.</h4>
   - <h4>💻 I am currently learning Docker and revising DSA, Python and Dev</h4>
