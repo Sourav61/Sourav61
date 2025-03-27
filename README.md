@@ -78,12 +78,12 @@
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" height="40px" width="40px" />
   <h1 align="center"> Database </h1>
   <p align="center"> 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" height="40px" width="40px" />
+    <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb&perline=3" alt="Database Icons">
   </p>
 
    <h1 align="center"> Frameworks </h1>
    <p align="center"> 
-      <img src="https://skillicons.dev/icons?i=react,nodejs,flask&perline=3" alt="Tech Stack Icons">
+      <img src="https://skillicons.dev/icons?i=react,nodejs,flask&perline=3" alt="Framework Icons">
   </p>
    
  </details>
