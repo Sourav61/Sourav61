@@ -8,7 +8,7 @@
   <h2>Hey there, I am a Software Developer at rtCamp</h2>
 
   - <h4>🏡 Gradauted(B.Tech CSE) from CGC Landran,Mohali.</h4>
-  - <h4>💻 I am currently learning Docker and revising DSA, Python and Dev</h4>
+  - <h4>💻 I am currently revising DSA(Problem Solving) and Dev</h4>
   - <h4>🌐 I have also explored world of Machine Learning and Artificial Intelligence using Python.</h4>
   <br />
 
@@ -56,12 +56,12 @@
      <td align="left">This is an ML based Project that predicts salary of an employee on basis of parameters like average training score, awards won etc.</td>
     </tr>
     <tr>
-     <td align="center"><a href="https://github.com/Sourav61/Netflix-Clone">Netflix Clone</a></td>
-     <td align="left">Built with moto to brush up my skills on HTML, CSS & JS, It consists of Clone of the Landing page of Netflix.</td>
+     <td align="center"><a href="https://github.com/Sourav61/Travel-Pro">TravelPro</a></td>
+     <td align="left">Enabled dynamic flight booking with admin control, using Redux for state management and Firebase for real-time updates.</td>
     </tr>
     <tr>
      <td align="center"><a href="https://github.com/Sourav61/Portfolio">Personal Portfolio</a></td>
-     <td align="left">This is my personal personal-portfolio website. Have a<a href="https://personal-portfolio-sp.herokuapp.com/" rel="nofollow"> look</a></td>
+     <td align="left">This is my personal personal-portfolio website. Have a<a href="https://portfolio-r746zizgp-sourav61.vercel.app/" rel="nofollow"> look</a></td>
     </tr>
    </tbody>
   </table>
