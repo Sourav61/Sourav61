@@ -47,6 +47,10 @@
     </tr>
    </thead>
    <tbody>
+     <tr>
+     <td align="center"><a href="https://github.com/Sourav61/Travel-Pro">TravelPro</a></td>
+     <td align="left">Enabled dynamic flight booking with admin control, using Redux for state management and Firebase for real-time updates.</td>
+    </tr>
     <tr>
      <td align="center"><a href="https://github.com/Sourav61/Projects">Projects</a></td>
      <td align="left">In this repository I will be adding all my projects which will include implementation of all knowledge gained during my entire tech career!!</td>
@@ -54,10 +58,6 @@
     <tr>
      <td align="center"><a href="https://github.com/Sourav61/Projects/tree/main/Employee%20Promotion%20Prediction">Employee Promotion Prediction</a></td>
      <td align="left">This is an ML based Project that predicts salary of an employee on basis of parameters like average training score, awards won etc.</td>
-    </tr>
-    <tr>
-     <td align="center"><a href="https://github.com/Sourav61/Travel-Pro">TravelPro</a></td>
-     <td align="left">Enabled dynamic flight booking with admin control, using Redux for state management and Firebase for real-time updates.</td>
     </tr>
     <tr>
      <td align="center"><a href="https://github.com/Sourav61/Portfolio">Personal Portfolio</a></td>
@@ -83,11 +83,7 @@
 
    <h1 align="center"> Frameworks </h1>
    <p align="center"> 
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" height="40px" width="40px" />
-   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/15b7da9c5e50455ef7c50a5d642afad7ab8d752e575010116727c3865beb026d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a51756572792d3037363941443f7374796c653d666f722d7468652d6261646765266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465"><img alt="JavaScript" src="https://camo.githubusercontent.com/15b7da9c5e50455ef7c50a5d642afad7ab8d752e575010116727c3865beb026d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a51756572792d3037363941443f7374796c653d666f722d7468652d6261646765266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" style="max-width:100%;"></a>
-   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/55037e0ff8e2c9df84ad631c3d0443a7316776ede7459a5872ccb336d7df2781/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d4342333833373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465"><img alt="JavaScript" src="https://camo.githubusercontent.com/55037e0ff8e2c9df84ad631c3d0443a7316776ede7459a5872ccb336d7df2781/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d4342333833373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&amp;logo=npm&amp;logoColor=white" style="max-width:100%;"></a>
-   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"><img alt="JavaScript" src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width:100%;"></a>
-
+      <img src="https://skillicons.dev/icons?i=react,nodejs,flask&perline=3" alt="Tech Stack Icons">
   </p>
    
  </details>
@@ -97,11 +93,11 @@
   <div align="center" display="flex" dir="auto">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=sourav61&show_icons=true&theme=radical" alt="GitHub Stats">
+      <img src="https://github-readme-stats-finall123spgmailcoms-projects.vercel.app/api?username=sourav61&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
   </a>
   
    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav61&layout=compact&theme=radical" alt="Top Languages">
+      <img src="https://github-readme-stats-finall123spgmailcoms-projects.vercel.app/api/top-langs/?username=sourav61&layout=compact&theme=radical" alt="Top Languages">
    </a>
 
   </div>
